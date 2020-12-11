@@ -1,0 +1,152 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+        <link href="../css.css?family=Fira+Code:400,600&display=swap" rel="stylesheet">
+
+        
+<title>0.12.1 beta &middot; checkra1n</title>
+<meta property="og:title" content="0.12.1 beta">
+<meta property="og:site_name" content="checkra1n">
+<meta name="twitter:title" content="checkra1n: 0.12.1 beta">
+
+
+
+<meta property="og:description" content="This release is a beta preview and as such should not be installed on a primary devices">
+<meta property="og:type" content="article">
+<meta name="description" content="This release is a beta preview and as such should not be installed on a primary devices">
+
+
+<meta property="twitter:site" content="@checkra1n">
+<meta property="twitter:card" content="summary">
+<meta name="twitter:url" content="/releases/0.12.1-beta">
+<meta name="robots" content="index,follow">
+
+<meta property="og:image" content="https://checkra.in/img/icon.png">
+<meta name="twitter:image" content="https://checkra.in/img/icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../img/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="152x152" href="../img/favicon.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../img/favicon-16x16.png">
+<link rel="shortcut icon" href="../img/favicon.ico">
+
+
+        <link rel="stylesheet" href="../css/style.css?v=2">
+
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <a href="../intent/follow.html?screen_name=checkra1n" class="birdy"><i class="fab fa-twitter"></i></a>
+        <div class="section" style="display: none;"></div>
+<div class="section">
+  <a href="../index.htm"><canvas class="logo" width="512" height="512" style="height: 52px; width: 52px;"></canvas></a>
+</div>
+<div class="section section-release">
+    <h1>Release</h1>
+    <div><div class="release">
+    <a href="0.12.1-beta.html"><h3>checkra1n 0.12.1 beta</h3></a>
+
+    <div class="smart-downloads">
+            <div show-if="macOS"><a href="../downloads/macos/155b1a98ba277999fb4154e63c5e14c6b5be684b4ba901480cfbf3641a8e18d7/checkra1n beta 0.12.1.dmg" class="download-btn primary"><span><i class="fas fa-download"></i> Download for macOS</span><span class="extra-info"><strong>SHA256</strong> 155b1a98ba277999fb4154e63...</span></a><span class="help">Looking for another OS? <a href="#all-downloads">See all downloads &raquo;</a></span>
+            </div>
+            
+            <div show-if="Linux"><a href="../linux.html" class="download-btn primary"><span><i class="fas fa-download"></i> Linux</span><span class="extra-info"><strong>Instructions for installing on all Linux platforms.</strong></span></a><span class="help">Looking for another OS? <a href="#all-downloads">See all downloads &raquo;</a></span>
+            </div>
+            <p class="help" show-if="iOS">You can't download this on your iOS device. Come back on a computer to get started with checkra1n.</p>
+        <p class="help fallback">We couldn't determine your OS. <a href="#all-downloads">See downloads &raquo;</a></p>
+    </div>
+
+    <div class="changelog">
+        <p><strong>This release is a beta preview and as such should not be installed on a primary devices</strong></p>
+
+<h3 id="whats-new">What’s new</h3>
+
+<h4 id="highlighted-changes">Highlighted changes</h4>
+
+<ul>
+  <li>Adds an on-device alert to indicate checkra1n’s Safe Mode is active</li>
+  <li>Adds support for iBridge SSH from the same host</li>
+  <li>Partial support for the original HomePod (CLI only, tested to work with audioOS 13 and 14)</li>
+</ul>
+
+<h4 id="bug-fixes">Bug fixes</h4>
+
+<ul>
+  <li>Fixes an issue that would often cause Safe Mode to be entered on iOS 14.2 regardless of whether the user requested it or not</li>
+  <li>Safe Mode no longer loads 3rd-party LaunchDaemons</li>
+  <li>NVRAM is now unlocked on iOS 14.2 as well</li>
+  <li>Fixes an issue where jailbreaking an AppleTV fail on fresh tvOS installations</li>
+  <li>The bundled <code class="language-plaintext highlighter-rouge">dd</code> binary now has the entitlement required to access block devices</li>
+  <li>Fixes multiple memory leaks in early-boot binaries</li>
+  <li>Changes some GUI internals that should reduce the chance of exploit failure and GUI hiccups</li>
+</ul>
+
+<h4 id="notes">Notes</h4>
+
+<ul>
+  <li>A11 devices on iOS 14.0 and above require removing the passcode and enabling “Skip A11 BPR check” in the options. This is not recommended, but it’s there.</li>
+</ul>
+
+<h4 id="known-issues">Known issues</h4>
+
+<ul>
+  <li>A10/A10X devices on 14.3 and above as well as T2 devices on bridgeOS 5.1 and above will crash and reboot before reaching PongoOS</li>
+  <li>On A10/A10X devices running iOS 14, boot may sometimes hang in pongoOS. In that case, reboot the device and retry.</li>
+  <li>A7 devices will currently not work with the Linux version</li>
+  <li>The exploit may not work as reliably on some devices, such as the Raspberry Pi Zero and Raspberry Pi 3</li>
+  <li>Linux GUI build when using CLI mode doesn’t support auto assertion of DFU mode on advanced Apple TV 4k breakout boards</li>
+  <li>bridgeOS:
+    <ul>
+      <li>As soon as macOS boots it’ll take over the USB connection and disallow communication</li>
+    </ul>
+  </li>
+  <li>Some users have reported checkra1n crashing when Chinese is set as the only system language. It is unknown whether any other language is affected.</li>
+</ul>
+
+<h3 id="unsupported-platforms">Unsupported platforms</h3>
+
+<p>This beta is only available for macOS and Linux. Work is ongoing to support Windows, which will be added in a later release.</p>
+
+<h3 id="package-managers">Package managers</h3>
+
+<p>At the moment, checkra1n only supports installing Cydia. Support for other package managers, including Zebra and Installer is coming soon and is expected within the coming weeks.</p>
+
+    </div>
+
+    
+    <hr>
+
+    <div id="all-downloads"></div>
+    <h4>All Downloads</h4>
+    <ul class="downloads">
+        <li><a href="../downloads/macos/155b1a98ba277999fb4154e63c5e14c6b5be684b4ba901480cfbf3641a8e18d7/checkra1n beta 0.12.1.dmg" class="download-btn"><span><i class="fas fa-download"></i> Download for macOS</span><span class="extra-info"><strong>SHA256</strong> 155b1a98ba277999fb4154e63c5e14c6b5be684b4ba901480cfbf3641a8e18d7</span></a></li>
+        
+        <li><a href="../downloads/linux/cli/x86_64/63282886157dd08079c8e41522fdc6d58cfecda783ea8cca79ffc1116f13c355/checkra1n" class="download-btn"><span><i class="fas fa-download"></i> Download for Linux (CLI, x86_64)</span><span class="extra-info"><strong>SHA256</strong> 63282886157dd08079c8e41522fdc6d58cfecda783ea8cca79ffc1116f13c355</span></a></li>
+        
+        <li><a href="../downloads/linux/cli/arm/1e0082c5ea7c62f17c54ce4cc709a4daf452b93bea7e9d9bc23799656ee56df9/checkra1n" class="download-btn"><span><i class="fas fa-download"></i> Download for Linux (CLI, arm)</span><span class="extra-info"><strong>SHA256</strong> 1e0082c5ea7c62f17c54ce4cc709a4daf452b93bea7e9d9bc23799656ee56df9</span></a></li>
+        
+        <li><a href="../downloads/linux/cli/arm64/bf5a0f30e208ec525617e1658dde27513fcca6e37ede1b6b361b7bae1ec7754b/checkra1n" class="download-btn"><span><i class="fas fa-download"></i> Download for Linux (CLI, arm64)</span><span class="extra-info"><strong>SHA256</strong> bf5a0f30e208ec525617e1658dde27513fcca6e37ede1b6b361b7bae1ec7754b</span></a></li>
+        
+        <li><a href="../downloads/linux/cli/i486/7ea7cc69d58308e2e96bc9f40f63f4f135d3b8fafd49a1bb4f4a849876f49fdb/checkra1n" class="download-btn"><span><i class="fas fa-download"></i> Download for Linux (CLI, i486)</span><span class="extra-info"><strong>SHA256</strong> 7ea7cc69d58308e2e96bc9f40f63f4f135d3b8fafd49a1bb4f4a849876f49fdb</span></a></li>
+        </ul></div></div>
+    <a href="index.htm">See all releases &raquo;</a>
+</div>
+
+        <div class="section footer">
+            <div class="dontgethackedbysomeoneelseplsiworryaboutyoursafetysometimesitsascaryworldoutthere">
+                <p>&copy; 2019-2020 Kim Jong Cracks</p>
+                <hr>
+                <p>The only official domain to download checkra1n from is https://checkra.in.</p>
+                <p>Please make sure to avoid similar-looking domains as they are often malicious sites.</p>
+            </div>
+        </div>
+        <script src="../js/script.js?v=2"></script>
+    </body>
+</html>

@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+        <link href="../css.css?family=Fira+Code:400,600&display=swap" rel="stylesheet">
+
+        
+<title>0.9.6 beta &middot; checkra1n</title>
+<meta property="og:title" content="0.9.6 beta">
+<meta property="og:site_name" content="checkra1n">
+<meta name="twitter:title" content="checkra1n: 0.9.6 beta">
+
+
+
+<meta property="og:description" content="Important information">
+<meta property="og:type" content="article">
+<meta name="description" content="Important information">
+
+
+<meta property="twitter:site" content="@checkra1n">
+<meta property="twitter:card" content="summary">
+<meta name="twitter:url" content="/releases/0.9.6-beta">
+<meta name="robots" content="index,follow">
+
+<meta property="og:image" content="https://checkra.in/img/icon.png">
+<meta name="twitter:image" content="https://checkra.in/img/icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../img/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="152x152" href="../img/favicon.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../img/favicon-16x16.png">
+<link rel="shortcut icon" href="../img/favicon.ico">
+
+
+        <link rel="stylesheet" href="../css/style.css?v=2">
+
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <a href="../intent/follow.html?screen_name=checkra1n" class="birdy"><i class="fab fa-twitter"></i></a>
+        <div class="section" style="display: none;"></div>
+<div class="section">
+  <a href="../index.htm"><canvas class="logo" width="512" height="512" style="height: 52px; width: 52px;"></canvas></a>
+</div>
+<div class="section section-release">
+    <h1>Release</h1>
+    <div><div class="release">
+    <a href="0.9.6-beta.html"><h3>checkra1n 0.9.6 beta</h3></a>
+
+    <div class="smart-downloads">
+            <div show-if="macOS"><a href="../downloads/macos/599fa4255983134d95790cd71c808a73123bad2789cc35c146e41e6dd0c6dc8b/checkra1n beta 0.9.6.dmg" class="download-btn primary"><span><i class="fas fa-download"></i> Download for macOS</span><span class="extra-info"><strong>SHA256</strong> 599fa4255983134d95790cd71...</span></a><span class="help">Looking for another OS? <a href="#all-downloads">See all downloads &raquo;</a></span>
+            </div>
+            <p class="help" show-if="iOS">You can't download this on your iOS device. Come back on a computer to get started with checkra1n.</p>
+        <p class="help fallback">We couldn't determine your OS. <a href="#all-downloads">See downloads &raquo;</a></p>
+    </div>
+
+    <div class="changelog">
+        <h1 id="important-information">Important information</h1>
+
+<h3 id="this-release-is-a-beta-preview-and-as-such-should-not-be-installed-on-a-primary-device">This release is a beta preview and as such should <em>not</em> be installed on a primary device.</h3>
+
+<p><br></p>
+
+<h3 id="whats-new">What’s new</h3>
+<h4 id="bug-fixes">Bug fixes</h4>
+
+<ul>
+  <li>Fixes support for the iPad 6th Generation</li>
+  <li>Fixes an issue where A7 devices would report an error code on success</li>
+  <li>Fixes an issue where jailbreak app icons would show up on the boot after using loader’s “Restore System” functionality</li>
+  <li>Makes the loader app more resilient to errors occurring after a long uptime</li>
+  <li>Fixes an issue where Loader and Cydia would fail with a no internet connection message on Chinese iPhones</li>
+  <li>Fixes an issue where the the iPad Pro Smart Keyboard would disconnect</li>
+  <li>Fixes an issue where fast charging did not work</li>
+</ul>
+
+<h4 id="other-changes">Other changes</h4>
+
+<ul>
+  <li>Add support for jailbreaking Apple TVs from within the same app</li>
+  <li>Added support for the iPad 5th Generation, iPad Air 2nd Generation the iPad Pro 1st Generation</li>
+  <li>Added support for iOS 13.2.3</li>
+  <li>Re-engineered the command line interface from the ground up</li>
+  <li>Drastically improved loader’s speed</li>
+  <li>Restructured loaderd and friends into separate launch daemons to survive userland reboot and removed insult from daemon name</li>
+  <li>Export kernel base and other useful things for developers (see <a href="../sbingner/jbctl.html">jbctl</a> for details)</li>
+</ul>
+
+<p>If you are experiencing the -20, please rejailbreak with the no-substrate mode option checked in the app, and see if removing tweaks resolves your issue.</p>
+
+<h3 id="unsupported-devices">Unsupported devices</h3>
+
+<p>Support for the following devices is experimental, and may require more attempts than usual:</p>
+
+<ul>
+  <li>iPhone 5s</li>
+  <li>iPad Mini 2</li>
+  <li>iPad Mini 3</li>
+  <li>iPad Air</li>
+</ul>
+
+<p>Reliability on these devices will be improved in future releases.</p>
+
+<h3 id="unsupported-platforms">Unsupported platforms</h3>
+
+<p>This beta is only available for macOS. Work is ongoing to support Linux (eta son) and Windows, which will be added in a later release.</p>
+
+<h3 id="package-managers">Package managers</h3>
+
+<p>At the moment, checkra1n only supports installing Cydia. Support for other package managers is coming soon, and will not require a checkra1n update.</p>
+
+    </div>
+
+    
+    <hr>
+
+    <div id="all-downloads"></div>
+    <h4>All Downloads</h4>
+    <ul class="downloads">
+        <li><a href="../downloads/macos/599fa4255983134d95790cd71c808a73123bad2789cc35c146e41e6dd0c6dc8b/checkra1n beta 0.9.6.dmg" class="download-btn"><span><i class="fas fa-download"></i> Download for macOS</span><span class="extra-info"><strong>SHA256</strong> 599fa4255983134d95790cd71c808a73123bad2789cc35c146e41e6dd0c6dc8b</span></a></li>
+        </ul></div></div>
+    <a href="index.htm">See all releases &raquo;</a>
+</div>
+
+        <div class="section footer">
+            <div class="dontgethackedbysomeoneelseplsiworryaboutyoursafetysometimesitsascaryworldoutthere">
+                <p>&copy; 2019-2020 Kim Jong Cracks</p>
+                <hr>
+                <p>The only official domain to download checkra1n from is https://checkra.in.</p>
+                <p>Please make sure to avoid similar-looking domains as they are often malicious sites.</p>
+            </div>
+        </div>
+        <script src="../js/script.js?v=2"></script>
+    </body>
+</html>

@@ -1,0 +1,564 @@
+Uri: https://checkra.in/
+File Name: C:\Downloaded Web Sites\checkra.in\index.htm
+Content Type: text/html
+
+Uri: https://use.fontawesome.com/releases/v5.1.0/css/all.css
+File Name: C:\Downloaded Web Sites\checkra.in\releases\v5.1.0\css\all.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Fira+Code:400,600&display=swap
+File Name: C:\Downloaded Web Sites\checkra.in\css.css
+Content Type: text/css
+
+Uri: https://checkra.in/img/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/favicon.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\favicon.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/favicon.ico
+File Name: C:\Downloaded Web Sites\checkra.in\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://checkra.in/css/style.css?v=2
+File Name: C:\Downloaded Web Sites\checkra.in\css\style.css
+Content Type: text/css
+
+Uri: https://twitter.com/intent/follow?screen_name=checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow.html
+Content Type: text/html
+
+Uri: https://checkra.in/news/2020/09/iOS-14-announcement
+File Name: C:\Downloaded Web Sites\checkra.in\news\2020\09\iOS-14-announcement.html
+Content Type: text/html
+
+Uri: https://checkra.in/releases/0.12.1-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.12.1-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/155b1a98ba277999fb4154e63c5e14c6b5be684b4ba901480cfbf3641a8e18d7/checkra1n beta 0.12.1.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\155b1a98ba277999fb4154e63c5e14c6b5be684b4ba901480cfbf3641a8e18d7\checkra1n beta 0.12.1.dmg
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/linux
+File Name: C:\Downloaded Web Sites\checkra.in\linux.html
+Content Type: text/html
+
+Uri: https://twitter.com/axi0mX/status/1177542201670168576
+File Name: C:\Downloaded Web Sites\checkra.in\axi0mX\status\1177542201670168576.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=_argp
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-1.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=aunali1
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-2.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=axi0mX
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-3.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=DanyL931
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-4.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=Jaywalker
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-5.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=hbkirb
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-6.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=h0m3us3r
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-7.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=littlelailo
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-8.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=MCMrARM
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-9.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=never_released
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-10.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=nitoTV
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-11.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=jamiebishop123
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-12.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=pimskeks
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-13.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=qwertyoruiopz
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-14.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=sbingner
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-15.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=su_rickmark
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-16.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=s1guza
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-17.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=kjchaifisch
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-18.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=jndok
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-19.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=JonathanSeals
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-20.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=xerub
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-21.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=littlesteve
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-22.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=iBSparkes
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-23.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=Simone_Ferrini
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-24.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=ihackbanme
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-25.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=iH8sn0w
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-26.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=cjori
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-27.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=r0nyrus
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-28.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/follow?screen_name=aydenpanhuyzen
+File Name: C:\Downloaded Web Sites\checkra.in\intent\follow-29.html
+Content Type: text/html
+
+Uri: https://checkra.in/img/credits/_argp.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\_argp.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/aunali1.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\aunali1.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/axi0mX.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\axi0mX.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/DanyL931.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\DanyL931.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/Jaywalker.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\Jaywalker.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/hbkirb.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\hbkirb.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/h0m3us3r.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\h0m3us3r.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/littlelailo.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\littlelailo.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/MCMrARM.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\MCMrARM.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/never_released.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\never_released.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/nitoTV.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\nitoTV.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/jamiebishop123.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\jamiebishop123.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/pimskeks.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\pimskeks.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/qwertyoruiopz.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\qwertyoruiopz.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/sbingner.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\sbingner.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/su_rickmark.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\su_rickmark.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/s1guza.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\s1guza.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/kjchaifisch.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\kjchaifisch.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/jndok.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\jndok.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/JonathanSeals.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\JonathanSeals.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/xerub.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\xerub.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/littlesteve.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\littlesteve.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/iBSparkes.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\iBSparkes.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/Simone_Ferrini.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\Simone_Ferrini.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/ihackbanme.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\ihackbanme.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/iH8sn0w.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\iH8sn0w.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/cjori.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\cjori.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/r0nyrus.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\r0nyrus.png
+Content Type: image/png
+
+Uri: https://checkra.in/img/credits/aydenpanhuyzen.png
+File Name: C:\Downloaded Web Sites\checkra.in\img\credits\aydenpanhuyzen.png
+Content Type: image/png
+
+Uri: https://checkra.in/js/script.js?v=2
+File Name: C:\Downloaded Web Sites\checkra.in\js\script.js
+Content Type: application/javascript
+
+Uri: https://twitter.com/windknown/status/1291308058493116416
+File Name: C:\Downloaded Web Sites\checkra.in\windknown\status\1291308058493116416.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/linux/cli/x86_64/63282886157dd08079c8e41522fdc6d58cfecda783ea8cca79ffc1116f13c355/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\x86_64\63282886157dd08079c8e41522fdc6d58cfecda783ea8cca79ffc1116f13c355\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm/1e0082c5ea7c62f17c54ce4cc709a4daf452b93bea7e9d9bc23799656ee56df9/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm\1e0082c5ea7c62f17c54ce4cc709a4daf452b93bea7e9d9bc23799656ee56df9\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm64/bf5a0f30e208ec525617e1658dde27513fcca6e37ede1b6b361b7bae1ec7754b/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm64\bf5a0f30e208ec525617e1658dde27513fcca6e37ede1b6b361b7bae1ec7754b\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/i486/7ea7cc69d58308e2e96bc9f40f63f4f135d3b8fafd49a1bb4f4a849876f49fdb/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\i486\7ea7cc69d58308e2e96bc9f40f63f4f135d3b8fafd49a1bb4f4a849876f49fdb\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/releases/
+File Name: C:\Downloaded Web Sites\checkra.in\releases\index.htm
+Content Type: text/html
+
+Uri: https://iokit.racing/oneweirdtrick.pdf
+File Name: C:\Downloaded Web Sites\checkra.in\oneweirdtrick.pdf
+Content Type: application/pdf
+
+Uri: https://github.com/checkra1n/BugTracker/issues
+File Name: C:\Downloaded Web Sites\checkra.in\checkra1n\BugTracker\issues.html
+Content Type: text/html
+
+Uri: https://checkra.in/news/
+File Name: C:\Downloaded Web Sites\checkra.in\news\index.htm
+Content Type: text/html
+
+Uri: https://checkra.in/releases/0.12.0-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.12.0-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/13229300c912c2280862ceff3bfceb08d497d86033654f834ce5bb025740e162/checkra1n beta 0.12.0.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\13229300c912c2280862ceff3bfceb08d497d86033654f834ce5bb025740e162\checkra1n beta 0.12.0.dmg
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/releases/0.11.0-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.11.0-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/d4def982494bc0b99c6df57dc94338c205902aaa8949e9ae046812ed57743ccb/checkra1n beta 0.11.0.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\d4def982494bc0b99c6df57dc94338c205902aaa8949e9ae046812ed57743ccb\checkra1n beta 0.11.0.dmg
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/releases/0.10.2-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.10.2-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/043fc022a54653e9b2b92d7d2da1d6316c8d462fd181780e1d1a23b9d40c4ce2/checkra1n beta 0.10.2.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\043fc022a54653e9b2b92d7d2da1d6316c8d462fd181780e1d1a23b9d40c4ce2\checkra1n beta 0.10.2.dmg
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/releases/0.10.1-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.10.1-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/33356fd4adabe88b787e1db36ac624833c32416124a40ec00d3089d659f21a5f/checkra1n beta 0.10.1.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\33356fd4adabe88b787e1db36ac624833c32416124a40ec00d3089d659f21a5f\checkra1n beta 0.10.1.dmg
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/releases/0.9.8.2-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.9.8.2-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/8137a379774904450180054fca898044d3588b8da73edf853e956b1060e5e79b/checkra1n beta 0.9.8.2.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\8137a379774904450180054fca898044d3588b8da73edf853e956b1060e5e79b\checkra1n beta 0.9.8.2.dmg
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/releases/0.9.8.1-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.9.8.1-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/bf055708225db20f51948690563ec87de1a4d53a4dada993e9f4ff70636873ed/checkra1n beta 0.9.8.1.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\bf055708225db20f51948690563ec87de1a4d53a4dada993e9f4ff70636873ed\checkra1n beta 0.9.8.1.dmg
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/releases/0.9.8-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.9.8-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/e7f07934860027fe7c503922498ae86d43fd79dc1fc004a85bad24e0a002a7f8/checkra1n beta 0.9.8.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\e7f07934860027fe7c503922498ae86d43fd79dc1fc004a85bad24e0a002a7f8\checkra1n beta 0.9.8.dmg
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/releases/0.9.7-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.9.7-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/a43bdd2a64967b70cda422b26e8e5585d7c37c28cbe42a67474143b5de586000/checkra1n beta 0.9.7.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\a43bdd2a64967b70cda422b26e8e5585d7c37c28cbe42a67474143b5de586000\checkra1n beta 0.9.7.dmg
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/releases/0.9.6-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.9.6-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/599fa4255983134d95790cd71c808a73123bad2789cc35c146e41e6dd0c6dc8b/checkra1n beta 0.9.6.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\599fa4255983134d95790cd71c808a73123bad2789cc35c146e41e6dd0c6dc8b\checkra1n beta 0.9.6.dmg
+Content Type: application/octet-stream
+
+Uri: https://github.com/sbingner/jbctl
+File Name: C:\Downloaded Web Sites\checkra.in\sbingner\jbctl.html
+Content Type: text/html
+
+Uri: https://checkra.in/releases/0.9.5-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.9.5-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/6c1a1b9d8cbb3f2879a952d5748f3fec47e00e9d5f9bb7d07178212a5c2181df/checkra1n beta 0.9.5.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\6c1a1b9d8cbb3f2879a952d5748f3fec47e00e9d5f9bb7d07178212a5c2181df\checkra1n beta 0.9.5.dmg
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/releases/0.9.3.2-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.9.3.2-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/bbdddefe6d49142c1ef3a994bab32cdc3eed7e3033f7a34beae20330f3ff2ce8/checkra1n beta 0.9.3.2.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\bbdddefe6d49142c1ef3a994bab32cdc3eed7e3033f7a34beae20330f3ff2ce8\checkra1n beta 0.9.3.2.dmg
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/releases/0.9.3-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.9.3-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/f7a16ee122a6d7c8c9a0429db1a0b8fb4ecc3543684713eda951f19b30c02c11/checkra1n beta 0.9.3.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\f7a16ee122a6d7c8c9a0429db1a0b8fb4ecc3543684713eda951f19b30c02c11\checkra1n beta 0.9.3.dmg
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/releases/0.9.2-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.9.2-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/0c010ab83414d016d2202f3f67de07d6b62459bc66f841c44f53a9f1a5965b17/checkra1n beta 0.9.2.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\0c010ab83414d016d2202f3f67de07d6b62459bc66f841c44f53a9f1a5965b17\checkra1n beta 0.9.2.dmg
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/releases/0.9.1-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.9.1-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/macos/dec472b249315a44a7a8caed016eaff2802a8b8d969d2fd299602a3af75ce3a0/checkra1n beta 0.9.1.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\dec472b249315a44a7a8caed016eaff2802a8b8d969d2fd299602a3af75ce3a0\checkra1n beta 0.9.1.dmg
+Content Type: application/octet-stream
+
+Uri: https://checkra.in/releases/0.9-beta
+File Name: C:\Downloaded Web Sites\checkra.in\releases\0.9-beta.html
+Content Type: text/html
+
+Uri: https://assets.checkra.in/downloads/linux/cli/x86_64/5323e3cf5a2c2d12d39b4e8489bab0250c0c002e9d1c21213987f77936b3de6c/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\x86_64\5323e3cf5a2c2d12d39b4e8489bab0250c0c002e9d1c21213987f77936b3de6c\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm/f2ae569ff84a0a95697bbf849490b139ecb1aa8133abb29d33e616ac63ae8489/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm\f2ae569ff84a0a95697bbf849490b139ecb1aa8133abb29d33e616ac63ae8489\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm64/81047292f1f35e595f2a6bb67f9226a6772ffbc51944aa4c7a7c806fa4698093/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm64\81047292f1f35e595f2a6bb67f9226a6772ffbc51944aa4c7a7c806fa4698093\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/i486/a0d4a5e2046582188d8e1ccfa91579947ebe5ce4e3c27ea718a14ce69a780b88/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\i486\a0d4a5e2046582188d8e1ccfa91579947ebe5ce4e3c27ea718a14ce69a780b88\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/x86_64/fa08102ba978746ff38fc4c1a0d2e8f231c2cbf79c7ef6d7b504e4683a5b7d05/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\x86_64\fa08102ba978746ff38fc4c1a0d2e8f231c2cbf79c7ef6d7b504e4683a5b7d05\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm/d751f4b245bd4071c571654607ca4058e9e7dc4a5fa30639024b6067eebf5c3b/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm\d751f4b245bd4071c571654607ca4058e9e7dc4a5fa30639024b6067eebf5c3b\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm64/b48774e5d240ce192016a3fa97df7ef855220576f0704c83ed627d092cb2e224/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm64\b48774e5d240ce192016a3fa97df7ef855220576f0704c83ed627d092cb2e224\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/i486/6f3885184dbdb5af4fec8c57e5684f914b9838ce7d6f78db5e9d2687d741b8f1/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\i486\6f3885184dbdb5af4fec8c57e5684f914b9838ce7d6f78db5e9d2687d741b8f1\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/x86_64/607faa865e90e72834fce04468ae4f5119971b310ecf246128e3126db49e3d4f/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\x86_64\607faa865e90e72834fce04468ae4f5119971b310ecf246128e3126db49e3d4f\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm/dde0ee4255403a427636bb76e09e409487f8be128af4b7d89fac78548bd5b35a/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm\dde0ee4255403a427636bb76e09e409487f8be128af4b7d89fac78548bd5b35a\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm64/32cc7d1bd687800d1b5bc5cfc4f4ca15f393dada7570e78742eab068b1f2a3e2/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm64\32cc7d1bd687800d1b5bc5cfc4f4ca15f393dada7570e78742eab068b1f2a3e2\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/i486/53d45283b5616d9f0daa8a265362b65a33ce503b3088528cc2839544e166d4c6/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\i486\53d45283b5616d9f0daa8a265362b65a33ce503b3088528cc2839544e166d4c6\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/x86_64/b0edbb87a5e084caf35795dcb3b088146ad5457235940f83e007f59ca57b319c/checkra1n-x86_64
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\x86_64\b0edbb87a5e084caf35795dcb3b088146ad5457235940f83e007f59ca57b319c\checkra1n-x86_64
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm64/ed074035bea72ae6a15a37c5900ed5bb4d0a74ccca5bc8c02f4575b45daecc3e/checkra1n-aarch64
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm64\ed074035bea72ae6a15a37c5900ed5bb4d0a74ccca5bc8c02f4575b45daecc3e\checkra1n-aarch64
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/i486/9b7a5c7821c8e06a334b854c5ffad7b28c56a5ac261afe3c6b647c9ba7185aee/checkra1n-i486
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\i486\9b7a5c7821c8e06a334b854c5ffad7b28c56a5ac261afe3c6b647c9ba7185aee\checkra1n-i486
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/x86_64/9f215d8c5a1b6cea717c927b86840b9d1f713d42a24626be3a0408a4f6ba0f4d/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\x86_64\9f215d8c5a1b6cea717c927b86840b9d1f713d42a24626be3a0408a4f6ba0f4d\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm/c5cbb125c6948b39383702b62cec4f184263c8db50f49b9328013213126dae78/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm\c5cbb125c6948b39383702b62cec4f184263c8db50f49b9328013213126dae78\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm64/1985cee5704ed152d7a59efbcda5dab409824eeed5ebb23779965511b1733e28/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm64\1985cee5704ed152d7a59efbcda5dab409824eeed5ebb23779965511b1733e28\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/i486/4785390cf41dfbf4478bce4b69a00ec00a82ebab0a1c8dc364a8fe1b6fc664c0/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\i486\4785390cf41dfbf4478bce4b69a00ec00a82ebab0a1c8dc364a8fe1b6fc664c0\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/x86_64/3283cab4ad44dd1ded467ed403ba5f603c6de015a7c3bdf0b1f9ef211cd06b6d/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\x86_64\3283cab4ad44dd1ded467ed403ba5f603c6de015a7c3bdf0b1f9ef211cd06b6d\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm/0848bac6a57dc0d9a64ff129a253e24efcb535434a065373a63b8e9ef4fe63ac/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm\0848bac6a57dc0d9a64ff129a253e24efcb535434a065373a63b8e9ef4fe63ac\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm64/22b44f8b3fb5536d67057951629648bda3e3406c9afb042151de89ff24592ea7/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm64\22b44f8b3fb5536d67057951629648bda3e3406c9afb042151de89ff24592ea7\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/i486/f7db665fc668edf610a779102c0d41db6bcfc24df9868064091e4b7993891982/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\i486\f7db665fc668edf610a779102c0d41db6bcfc24df9868064091e4b7993891982\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/x86_64/eda98d55f500a9de75aee4e7179231ed828ac2f5c7f99c87442936d5af4514a4/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\x86_64\eda98d55f500a9de75aee4e7179231ed828ac2f5c7f99c87442936d5af4514a4\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm/5f7d4358971eb2823413801babbac0158524da80c103746e163605d602ff07bf/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm\5f7d4358971eb2823413801babbac0158524da80c103746e163605d602ff07bf\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/arm64/0a640fd52276d5640bbf31c54921d1d266dc2303c1ed26a583a58f66a056bfea/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\arm64\0a640fd52276d5640bbf31c54921d1d266dc2303c1ed26a583a58f66a056bfea\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/linux/cli/i486/26952e013ece4d0e869fc9179bfd2b1f6c319cdc707fadf44fdb56fa9e62f454/checkra1n
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\linux\cli\i486\26952e013ece4d0e869fc9179bfd2b1f6c319cdc707fadf44fdb56fa9e62f454\checkra1n
+Content Type: application/octet-stream
+
+Uri: https://assets.checkra.in/downloads/macos/4d63520f02d29eb91046ce0bb0a5849ed5599fc4684038954e18bc9d622febdb/checkra1n beta 0.9.dmg
+File Name: C:\Downloaded Web Sites\checkra.in\downloads\macos\4d63520f02d29eb91046ce0bb0a5849ed5599fc4684038954e18bc9d622febdb\checkra1n beta 0.9.dmg
+Content Type: application/octet-stream
+
